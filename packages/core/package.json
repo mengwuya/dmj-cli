@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@dmj-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "18a34a9c283f36bd7ccc20faf51851e8db2db031"
 }
