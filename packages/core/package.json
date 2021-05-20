@@ -1,6 +1,6 @@
 {
   "name": "@dmj-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "dmj-cli core",
   "author": "mengwuya <987202055@qq.com>",
   "homepage": "",
@@ -18,8 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from core\""
-  },
-  "dependencies": {
   },
   "publishConfig": {
     "access": "public"
