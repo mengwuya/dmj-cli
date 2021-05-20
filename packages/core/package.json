@@ -21,5 +21,8 @@
   },
   "dependencies": {
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "18a34a9c283f36bd7ccc20faf51851e8db2db031"
 }
